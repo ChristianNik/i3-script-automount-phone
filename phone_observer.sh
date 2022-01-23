@@ -25,7 +25,4 @@ function main() {
     fi
 }
 
-while true; do
-    main
-    sleep 1
-done
+main
